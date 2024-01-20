@@ -1,0 +1,20 @@
+Question 1: Find the distance to plant Roses equally Spaced in a flowerbed with 344 and 466 Dimensions with Plants in every Corner with as little as possible space Consumed 
+
+Answer 1: The distance to Plant The Roses is 2.
+
+Question 2: If Louise is 63 years old. Her daughter is 30 years old. In how many years will Louise be double her daughter's age?
+
+Answer 2: Louise will be double her daughter's age in 3 years.
+
+Question 3: If Louise is 34 years old. Her daughter is 5 years old. In how many years will Louise be double her daughter's age?
+
+Answer 3: Louise will be double her daughter's age in 24 years.
+
+Question 4: If Louise is 57 years old. Her daughter is 4 years old. In how many years will Louise be double her daughter's age?
+
+Answer 4: Louise will be double her daughter's age in 49 years.
+
+Question 5: If Louise is 114 years old. Her daughter is 25 years old. In how many years will Louise be double her daughter's age?
+
+Answer 5: Louise will be double her daughter's age in 64 years.
+

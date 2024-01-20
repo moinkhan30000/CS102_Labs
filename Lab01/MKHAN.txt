@@ -1,0 +1,20 @@
+Question 1: If Louise is 71 years old. Her daughter is 8 years old. In how many years will Louise be double her daughter's age?
+
+Answer 1: Louise will be double her daughter's age in 55 years.
+
+Question 2: Find the distance to plant Roses equally Spaced in a flowerbed with 610 and 128 Dimensions with Plants in every Corner with as little as possible space Consumed 
+
+Answer 2: The distance to Plant The Roses is 2.
+
+Question 3: If Louise is 115 years old. Her daughter is 4 years old. In how many years will Louise be double her daughter's age?
+
+Answer 3: Louise will be double her daughter's age in 107 years.
+
+Question 4: Find whole numbers between 304 and 397 divisible by 28, 52, and 13.
+
+Answer 4: Whole numbers between 304 and 397 divisible by 28, 52, and 13 are [364]
+
+Question 5: Find whole numbers between 529 and 964 divisible by 15, 90, and 60.
+
+Answer 5: Whole numbers between 529 and 964 divisible by 15, 90, and 60 are [540, 720, 900]
+
